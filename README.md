@@ -1,2 +1,3 @@
-# UsabilityHub
-Homepage of a website made using HTML &amp; vanilla CSS.
+<img src="bannerlogo.png" width=100%>
+
+## Usability Hub: A Clone Frontend, made using HTML & CSS
